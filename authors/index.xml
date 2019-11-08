@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://xujingao13.github.io/authors/</link>
+      <atom:link href="https://xujingao13.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://xujingao13.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://xujingao13.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://xujingao13.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xujingao13.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Jingao Xu is currently a Ph.D. candidate at the School of Software, Tsinghua University, under supervision of Prof. &lt;a href=&#34;http://tns.thss.tsinghua.edu.cn/~yangzheng/&#34; target=&#34;_blank&#34;&gt;Zheng Yang&lt;/a&gt; and &lt;a href=&#34;http://www.cse.msu.edu/~liuyunha/&#34; target=&#34;_blank&#34;&gt;Yunhao Liu&lt;/a&gt; since 2017.
+Prior to that, he received his B.E. degree in Software Engineering in 2017 from the School of Software at Tsinghua University.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: 11-238 East Main Building, Tsinghua University, Beijing, China&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;E-mail&lt;/strong&gt;: &lt;u&gt;xujingao13 AT gmail DOT com&lt;/u&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
