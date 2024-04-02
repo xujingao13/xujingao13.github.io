@@ -1,0 +1,47 @@
+<div class="d-flex justify-content-center">
+  <div class = "bottomimg">
+      <a href = "https://www.tsinghua.edu.cn" title='Tsinghua'>
+          <img src = "http://tns.thss.tsinghua.edu.cn/jingao/img/icon.png">
+      </a>
+  </div>
+  <div class = "bottomimg">
+      <a href='https://clustrmaps.com/site/1b079' title='Visit tracker'>
+          <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=jKSvUx3PVKbrs3gMJEUgyrdHV9WKoex6DEx91GJo-8A'/>
+      </a>
+  </div>
+</div>
+
+<!-- <div class="text-center">
+  <a href = "https://www.tsinghua.edu.cn" title='Tsinghua'>
+    <img src = "/assets/img/icon.png" width="10%">
+  </a>
+  <a href='https://clustrmaps.com/site/1b079' title='Visit tracker'>
+    <img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=jKSvUx3PVKbrs3gMJEUgyrdHV9WKoex6DEx91GJo-8A' width="15%"/>
+</a>
+</div> -->
+
+    {% if site.footer_fixed %}
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- else -%}
+    <footer class="sticky-bottom mt-5">
+      <div class="container">
+        &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+        {%- if site.impressum_path -%}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        {%- endif -%}
+        {%- if site.last_updated -%}
+        Last updated: {{ "now" | date: '%B %d, %Y' }}.
+        {%- endif %}
+      </div>
+    </footer>
+    {%- endif %}

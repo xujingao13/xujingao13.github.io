@@ -1,0 +1,45 @@
+# "MobiCom-23":
+#   url: https://www.sigmobile.org/mobicom/2023/
+#   color: "#BA2867"
+
+# "NSDI-22":
+#   url: https://www.usenix.org/conference/nsdi22
+#   color: "#00369f"
+
+# "MobiSys-21":
+#   url: https://www.sigmobile.org/mobisys/2021/
+#   color: "#B4119F"
+
+# "INFOCOM-20":
+#   url: https://infocom2020.ieee-infocom.org/index.html
+#   color: "#009540"
+
+# "UbiComp-19":
+#   url: https://ubicomp.org/ubicomp2019/#:~:text=UbiComp%202019%20will%20be%20multi,on%2011th%2D13th%20September%202019.
+#   color: "#FF9C31"
+
+"ACM MobiCom":
+  color: "#BA2867"
+
+"USENIX NSDI":
+  color: "#00369f"
+
+"ACM MobiSys":
+  color: "#2878B5"
+
+"IEEE INFOCOM":
+  color: "#009540"
+
+"ACM UbiComp":
+  color: "#FF9C31"
+
+"IEEE ICDCS":
+  color: "#3376CD"
+
+
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
