@@ -10,7 +10,7 @@ related_posts: false
 related_publications: 
 ---
 
-## Our Vision
+<!-- ## Our Vision
 Design effective **Drone**-based applications for industrial inspection with **Mobile-Edge-Cloud** collaboration.
 
 <div class="row mt-3">
@@ -23,13 +23,13 @@ Design effective **Drone**-based applications for industrial inspection with **M
 </div>
 <div class="caption">
     Our drone-based industrial inspection is conducted in one of the world's largest oil fields. The left figure shows the oil-producting area while the right presents the living area. Both are captured from an industrial drone.
-</div>
+</div> -->
 ---
 
 ## Our Goal
 Design *effective algorithms* and *system architectures* throughout the **mobile-edge-cloud** three Tiers to improve <u>task</u> processing **accuracy**, minimize end-to-end **latency**, and reduce computational/bandwidth **resource overhead**.
 
-Specific drone-oriented inspection tasks:
+Specific tasks:
 * Visual SLAM
 * Intelligent Sensing
 * Video Analysis
@@ -41,7 +41,7 @@ Specific drone-oriented inspection tasks:
 
 ## Our Work at a Glimpse
 
-* **Real-time Applications for Industrial Inspection**: How to design an effective AIoT system for industrial scenarios?
+* **Real-time Applications**: How to design an effective AIoT system?
 
 <div class="row mt-3">
         {% include figure.html path="assets/img/work_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}

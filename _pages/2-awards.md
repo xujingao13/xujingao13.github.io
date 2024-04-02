@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<i class="fa fa-trophy"></i> ACM SIGCOMM China Doctoral Dissertation Award.
+<i class="fa fa-trophy"></i> ACM SIGCOMM China Doctoral Dissertation Award, 2022.
 
 <!-- <i class="fa fa-trophy"></i> Tsinghua Shui-mu Scholarship (清华大学水木学者), 2022. -->
 

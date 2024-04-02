@@ -40,4 +40,4 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 
 * AIoT, Edge Computing, Mobile Computing
 * Visual SLAM Systems, Event-Camera-based Applications
-* Check out my current <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf)
+<!-- * Check out my current <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf) -->
