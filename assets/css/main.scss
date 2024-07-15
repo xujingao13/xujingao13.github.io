@@ -14,3 +14,22 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+/* Base logo size */
+.cmu-logo {
+  height: 2.5rem; /* Adjust this base size as needed */
+}
+
+/* Adjustments for different screen sizes */
+@media (max-width: 768px) {
+  .cmu-logo {
+    height: 2.5rem; /* Smaller size for tablets and mobile devices */
+  }
+}
+
+@media (max-width: 480px) {
+  .cmu-logo {
+    height: 2rem; /* Even smaller size for small mobile devices */
+  }
+}
+

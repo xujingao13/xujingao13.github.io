@@ -11,6 +11,11 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 
+## <i class="fa-solid fa-book"></i> Book
+<div class="publications">
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[mark=book]* %}
+</div>
+
 ## <i class="fa-solid fa-file"></i> Conference
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} -q @*[mark=conference]* %}
