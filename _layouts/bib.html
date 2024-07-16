@@ -40,6 +40,8 @@
           {% assign author_array_limit = site.max_author_limit %}
         {% endif %}
 
+        {%- assign underline_authors = entry.underline | split: '; ' -%}
+
         {%- for author in entry.author_array limit: author_array_limit -%}
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
@@ -62,13 +64,27 @@
             {%- if forloop.first == false -%},&nbsp;{%- endif -%}
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
-          {%- if author_is_self -%}
-            <strong>{{author.first}} {{author.last}}</strong>
+
+          {%- assign author_full_name = author.first | append: " " | append: author.last -%}
+
+          {%- assign author_underline = false -%}
+          {%- for underline_author in underline_authors -%}
+            {%- if author_full_name == underline_author | strip -%}
+              {%- assign author_underline = true -%}
+            {%- endif -%}
+          {%- endfor -%}
+
+          {%- if author_underline -%}
+            <u>{{author.first}} {{author.last}}</u>
           {%- else -%}
-            {%- if coauthor_url -%}
-              <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+            {%- if author_is_self -%}
+              <strong>{{author.first}} {{author.last}}</strong>
             {%- else -%}
-              {{author.first}} {{author.last}}
+              {%- if coauthor_url -%}
+                <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+              {%- else -%}
+                {{author.first}} {{author.last}}
+              {%- endif -%}
             {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
@@ -116,6 +132,8 @@
           {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
           {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+        {%- elsif entry.type == "book" -%}
+          {%- capture entrytype -%}<em>{{entry.publisher}}</em>{%- if entry.isbn -%}, <em>ISBN: {{entry.isbn}}</em>{%- endif -%}{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}

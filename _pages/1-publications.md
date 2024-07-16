@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: † indicates corresponding author; * indicates co-primary author; ^ indicates students mentored by me.
+description: † indicates corresponding author; * indicates co-primary author; __ indicates students mentored by me.
 nav: true
 nav_order: 1
 ---
