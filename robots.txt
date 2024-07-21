@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cs.cmu.edu/~jingao/sitemap.xml
+Sitemap: http://cs.cmu.edu/~jingaox/sitemap.xml
