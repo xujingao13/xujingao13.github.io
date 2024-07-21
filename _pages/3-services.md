@@ -8,11 +8,12 @@ nav_order: 3
 ---
 
 ### Co-Chair
+* ACM MobiSys'25 Finance Chair
 * ACM HotMobile'24 Publication Co-Chair, Poster/Demo Co-Chair
 
 ### Technical Program Committee Member 
 * EAI MobiQuitous 2022, 2023
-* IEEE ICPADS 2023
+* IEEE ICPADS 2023, 2024
 
 ### Reviewer
 * ACM IMWUT/Ubicomp 2019-present
