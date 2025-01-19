@@ -50,4 +50,3 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 * Visual SLAM Systems, Event-Camera-based Applications
 <!-- * Check out my <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en) -->
 
-<!-- * Check out my current <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf) -->
