@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am currently a postdoctoral researcher at the [Living Edge Lab](https://www.cmu.edu/scs/edgecomputing/index.html) within the Computer Science Department of Carnegie Mellon University, working with Professor [Mahadev Satyanarayanan](https://www.cs.cmu.edu/~satya/).
-My current work focuses on advancing **Edge Computing** within **Drone**-based systems.
+My current work focuses on advancing **Edge Computing** for mobile applications.
 Prior to that, I received both my Ph.D. (2022) and B.E. (2017) degrees with highest honors in Software Engineering from the School of Software at Tsinghua University, under the supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/). 
 
 <!-- I am currently a postdoctoral researcher at the School of Software, Tsinghua University, working with Professor [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).
@@ -46,8 +46,8 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 
 <i class="fa-solid fa-star"></i> **Research Interests**: 
 
-* AIoT, Edge Computing, Drone-based Computing
+* AIoT, Edge Computing, Mobile Computing
 * Visual SLAM Systems, Event-Camera-based Applications
-* Check out my <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en)
+<!-- * Check out my <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en) -->
 
 <!-- * Check out my current <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf) -->

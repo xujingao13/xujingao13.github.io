@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<i class="fas fa-hand-point-right"></i> Check out my [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en) profile, [CV](../assets/pdf/CV_jingao.pdf), and the [Overview of My Research](../blog/2023/work-overview/) for more details.
+<!-- <i class="fas fa-hand-point-right"></i> Check out my [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en) profile, [CV](../assets/pdf/CV_jingao.pdf), and the [Overview of My Research](../blog/2023/work-overview/) for more details. -->
 
 <!-- _pages/publications.md -->
 
