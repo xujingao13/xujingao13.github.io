@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 ### Co-Chair
+* ACM IMWUT (UbiComp) PICASSO Workshop'25 General Co-Chair
 * ACM MobiSys'25 Finance Chair
 * ACM HotMobile'24 Publication Co-Chair, Poster/Demo Co-Chair
 

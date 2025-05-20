@@ -1,4 +1,8 @@
 
           <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+            <!-- 先显示所有标记为book_selected的书籍 -->
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[book_selected=true]* %}
+            
+            <!-- 然后显示所有标记为selected的非书籍条目按照年份分组 -->
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* --group_by year --group_order descending %}
           </div>

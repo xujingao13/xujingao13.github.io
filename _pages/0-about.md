@@ -27,7 +27,7 @@ Prior to that, I received both my Ph.D. (2022) and B.E. (2017) degrees with high
 I received my Ph.D. degree from the School of Software at Tsinghua University in July 2022, under the supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).
 Prior to that, I received my B.E. degree in Software Engineering in 2017 also from School of Software at Tsinghua University. -->
 
-It is my great honor to be mentored by several creative, frank, and precise researchers, including Prof. [Chenshu Wu](https://cswu.me/), Prof. [Longfei Shangguan](https://shanggdlk.github.io/), and Prof. [Kun Qian](https://kunqian.info/). If you are interested in their work, don't hesitate to contact them, and I'm quite sure you'll gain valuable insights just in the near future!
+<!-- It is my great honor to be mentored by several creative, frank, and precise researchers, including Prof. [Chenshu Wu](https://cswu.me/), Prof. [Longfei Shangguan](https://shanggdlk.github.io/), and Prof. [Kun Qian](https://kunqian.info/). If you are interested in their work, don't hesitate to contact them, and I'm quite sure you'll gain valuable insights just in the near future! -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -45,9 +45,25 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 
 
 <i class="fa-solid fa-star"></i> **Research Interests**: 
-
 * AIoT, Edge Computing, Drone-based Computing
-* Visual SLAM Systems, Event-Camera-based Applications
+* Visual SLAM Systems, Event-Camera-based Mobile Applications
 * Check out my <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en)
+
+<i class="fa-solid fa-flag"></i> **Research Highlight**: 
+Building system supports to **Enhance Drone's Intelligence and Autonomy** is the current focus and also a long-term commitment in my research endeavors.
+As a system researcher and builder, I adhere to the research motto: "**Working Code on Flying Drones Trumps All Hype**" (inspired by Prof. [Satya](https://www.cs.cmu.edu/~satya/)). 
+In pursuit of making code operational and drones airborne, I think this problem from the following three important perspectives.
+
+1. **Algorithm Front**: *Write Working Code suitable for Flying Drones*.
+
+2. **Computing Front**: *Enable Flying Drones to effectively run Working Code*. 
+
+3. To push forward system performance, beyond developing algorithms and leveraging computational platforms separately, I also try to bridge them through **Software-Hardware Co-Design**.
+
+Thanks to these system supports, some of our proposed drone localization solutions and edge-based computing platforms have been adopted by industry partners.
+
+<div class="row mt-3">
+        {% include figure.html path="assets/img/work_drone_overview.png" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true width="95%" %}
+</div>
 
 <!-- * Check out my current <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf) -->
