@@ -169,6 +169,9 @@
           {%- if entry.demo %}
             <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button"><i class="fa fa fa-video-camera"></i> Demo</a>
           {%- endif %}
+          {%- if entry.talk %}
+            <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button"><i class="fa fa-microphone"></i> Talk</a>
+          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button"><i class="fa fa-file-pdf"></i> PDF</a>
