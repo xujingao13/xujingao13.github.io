@@ -1,0 +1,48 @@
+- title: Organizing Committee
+  type: simple_timeline
+  contents:
+    - year: 2025
+      description: <strong>General Co-Chair</strong>, ACM IMWUT/UbiComp PICASSO Workshop
+    - year: 2025
+      description: <strong>Finance Chair</strong>, ACM MobiSys
+    - year: 2024
+      description: <strong>Publication Co-Chair</strong>, <strong>Poster/Demo Co-Chair</strong>, ACM HotMobile'24
+
+- title: Technical Program Committee
+  type: stacked_timeline
+  contents:
+    - years: [2022, 2023, 2024, 2025]
+      description: EAI International Conference on Mobile and Ubiquitous Systems (<strong>MobiQuitous</strong>)
+    - years: [2023, 2024, 2025]
+      description: IEEE International Conference on Pervasive Computing and Communications (<strong>ICPADS</strong>)
+
+- title: Selected Journal Reviewer
+  type: simple_timeline
+  contents:
+    - year: 2019-present
+      description: ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>IMWUT/UbiComp</strong>)
+    - year: 2020-present
+      description: IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
+    - year: 2022-present
+      description: IEEE Transactions on Networking (<strong>ToN</strong>)
+    - year: 2020-present
+      description: IEEE Transactions on Sensor Networks (<strong>TOSN</strong>)
+    - year: 2020-present
+      description: IEEE Sensors Journal
+    - year: 2020-present
+      description: IEEE Internet of Things Journal (<strong>IOTJ</strong>)
+
+
+# - title: Teaching
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant
+#       institution: The Frontiers of Computer Networking (Graduate Course)
+#       year: Spring 2020, Spring 2021
+#       description:
+#         - Tsinghua University
+#     - title: Teaching Assistant
+#       institution: Software Engineering (Undergraduate Course)
+#       year: Fall 2016
+#       description:
+#         - Kernel course for undergraduates in School of Software, Tsinghua University
