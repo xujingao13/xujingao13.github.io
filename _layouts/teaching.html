@@ -1,0 +1,117 @@
+---
+layout: default
+---
+<!-- _layouts/teaching.html -->
+<div class="post">
+
+  <header class="post-header">
+    {% unless page.hide_title %}
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% endunless %}
+    {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <article>
+    <!-- Page content (markdown content) -->
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
+    <!-- Teaching section -->
+    <h1 id="Teaching">Teaching</h1>
+    <div class="cv">
+      {% for entry in site.data.teaching %}
+        {% if entry.category == "teaching" %}
+        <a class="anchor" id="{{ entry.title | slugify }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+          {% if entry.type == "list" %}
+            {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+            {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+            {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
+          {% elsif entry.type == "simple_timeline" %}
+            {% include cv/simple_timeline.html %}
+          {% elsif entry.type == "stacked_timeline" %}
+            {% include cv/stacked_timeline.html %}
+          {% elsif entry.type == "list_groups" %}
+            {% include cv/list_groups.html %}
+          {% else %}
+            {{ entry.contents }}
+          {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Talks section -->
+    <h1 id="Talk">Talk</h1>
+    <div class="cv">
+      {% for entry in site.data.teaching %}
+        {% if entry.category == "talk" %}
+        <a class="anchor" id="{{ entry.title | slugify }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+          {% if entry.type == "list" %}
+            {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+            {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+            {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
+          {% elsif entry.type == "simple_timeline" %}
+            {% include cv/simple_timeline.html %}
+          {% elsif entry.type == "stacked_timeline" %}
+            {% include cv/stacked_timeline.html %}
+          {% elsif entry.type == "list_groups" %}
+            {% include cv/list_groups.html %}
+          {% else %}
+            {{ entry.contents }}
+          {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Mentorship section -->
+    <h1 id="Mentorship">Mentorship</h1>
+    <div class="cv">
+      {% for entry in site.data.teaching %}
+        {% if entry.category == "mentorship" %}
+        <a class="anchor" id="{{ entry.title | slugify }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+          {% if entry.type == "list" %}
+            {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+            {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+            {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
+          {% elsif entry.type == "simple_timeline" %}
+            {% include cv/simple_timeline.html %}
+          {% elsif entry.type == "stacked_timeline" %}
+            {% include cv/stacked_timeline.html %}
+          {% elsif entry.type == "list_groups" %}
+            {% include cv/list_groups.html %}
+          {% else %}
+            {{ entry.contents }}
+          {% endif %}
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </article>
+
+</div>

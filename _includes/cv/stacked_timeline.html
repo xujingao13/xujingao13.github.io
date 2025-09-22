@@ -1,0 +1,18 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for content in entry.contents %}
+    <li class="list-group-item">
+      {% if content.years %}
+        <div class="mb-2 text-left">
+          {% for year in content.years %}
+            <span class="badge font-weight-bold danger-color-dark text-uppercase mr-1">{{ year }}</span>
+          {% endfor %}
+        </div>
+      {% elsif content.year %}
+        <div class="mb-2 text-left">
+          <span class="badge font-weight-bold danger-color-dark text-uppercase">{{ content.year }}</span>
+        </div>
+      {% endif %}
+      <div>{{ content.description }}</div>
+    </li>
+  {% endfor %}
+</ul>
