@@ -3,7 +3,7 @@
       <li class="list-group-item">
         <div class="row">
           {% if content.year %}
-            <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 60px;">
+            <div class="col-xs-2 cl-sm-2 col-md-2 text-left" style="width: 60px;">
               <table class="table-cv">
                 <tbody>
                   <tr>
@@ -28,7 +28,7 @@
             <h6 class="title font-weight-bold ml-1">{{content.title}}</h6>
             {% endif %}
             {% if content.department or content.institution %}
-            <table class="table-cv ml-1 institution">
+            <table class="table-cv ml-1 institution" style="margin-bottom: 0.2rem;">
             <tbody>
               {% if content.institution %}
               <tr>
@@ -49,7 +49,7 @@
               <div class="ml-1">{{ content.maindescription }}</div>
             {% endif %}
             {% if content.description %}
-              <ul class="items">
+              <ul class="items" style="margin-top: 0.1rem;">
                 {% for item in content.description %}
                   <li>
                     {% if item.contents %}

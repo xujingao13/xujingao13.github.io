@@ -1,0 +1,88 @@
+- title: Lectures
+  category: teaching
+  type: stacked_timeline
+  contents:
+    - years: [Spring 2026 - Future]
+      description: <strong>TBD......</strong>
+
+- title: Guest Lectures
+  category: teaching
+  type: stacked_timeline
+  contents:
+    - years: [Spring 2025]
+      description: <strong>"Edge Computing"</strong>, CS-1652 @University of Pittsburgh
+    - years: [Fall 2024]
+      description: <strong>"Visual SLAM for Robotic Perception"</strong>, CS-1652 @University of Pittsburgh
+    - years: [Spring 2023, Spring 2024]
+      description: <strong>"Edge Computing in Industry"</strong>, <i>The Frontiers of Computer Networking</i> @Tsinghua University
+
+
+
+- category: talk
+  type: time_table
+  contents:
+    - title: Vision Foundation Models <i>For</i>, <i>With</i>, and <i>On</i> Autonomous Drones
+      description:
+        - Northeastern University, Boston, MA, USA, Aug. 2025
+        - Carnegie Mellon University, Pittsburgh, PA, USA, Aug. 2025
+    - title: Drone-based Autonomous Systems with <i>Mobile-Edge</i>, <i>Software-Hardware</i> Co-Design
+      description:
+        - The University of Hong Kong, Hong Kong SAR, China, Jun. 2025
+        - Microsoft Research Asia, Online, May 2025
+        - Univeristy of Pittsburgh, Pittsburgh, PA, USA, Apr. 2025
+    - title: Event-based Vision for Drones&#58; <u>A</u>bstraction, <u>A</u>lgorithm, <u>A</u>cceleration
+      description:
+        - University of Maryland, College Park, MD, USA, Mar. 2025
+         - 中国计算机学会物联网大会青年论坛, 大连, 2023年10月
+
+- title: Selected Student Mentorships
+  category: mentorship
+  type: simple_timeline
+  contents:
+    - year: 2019 - 2024
+      description: <strong><a href="https://danylee19.github.io/">Danyang Li</a></strong>, Ph.D. student → Postdoc & Shui-Mu Scholar @Tsinghua
+    - year: 2019 - 2024
+      description: <strong><a href="https://tns.thss.tsinghua.edu.cn/~guoxuan/">Guoxuan Chi</a></strong>, Ph.D. student → Postdoc @Tsinghua
+    - year: 2022 - present
+      description: <strong><a href="https://haoyangwang00.github.io/">Haoyang Wang</a></strong>, Ph.D. student at Tsinghua SIGS
+    - year: 2019 - 2024
+      description: <strong>Hao Cao</strong>, Ph.D. student @Tsinghua → AMD
+    - year: 2020 - 2024
+      description: <strong>Zeyu Wang</strong>, Ph.D. student @Tsinghua → HUAWEI
+    - year: 2023 - 2025
+      description: <strong>Chenyu Zhao</strong>, Master student @Tsinghua SIGS → Ph.D. student @IC
+    - year: 2024 - present
+      description: <strong>Qifei Dong</strong>, Ph.D. student @CMU
+    - year: 2024 - present
+      description: <strong>Xiangliang Chen</strong>, Master student → Ph.D. student @CMU
+
+- title: Undergraduate Class Counsellor
+  category: mentorship
+  type: time_table
+  contents:
+    - title: Counsellor of 85 Undergraduates of Class 2017
+      institution: School of Software, Tsinghua University
+      year: 2017 - 2021
+      description:
+        - Our class won 10+ collective Awards including <strong>Tsinghua Outstanding Class Collective (清华大学先进班集体)</strong> & <strong>Beijing Outstanding Class Collective (北京市先进班集体)</strong>
+        - I was honored by <strong><a href="https://www.tsinghua.edu.cn/info/1176/90330.htm">Tsinghua Lin-Feng Counsellor Award (清华大学林枫辅导员奖)</a></strong> and <strong>12.9 Counsellor Award (清华大学12.9辅导员奖)</a></strong>, the Toppest and Top awards for counsellors in Tsinghua University!
+
+
+
+
+# - title: Teaching Assistant
+#   category: teaching
+#   type: time_table
+#   contents:
+#     - title: The Frontiers of Computer Networking
+#       institution: Graduate Course, Tsinghua University
+#       year: Spring 2019 - 2022
+#       description:
+#         - Advanced topics in computer networking
+#         - Research-oriented course for graduate students
+#     - title: Software Engineering
+#       institution: Undergraduate Course, Tsinghua University
+#       year: Fall 2017 - 2019
+#       description:
+#         - Kernel course for undergraduates in School of Software
+#         - Software development methodologies and practices
