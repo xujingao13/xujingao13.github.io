@@ -54,9 +54,9 @@ Building system supports to **Enhance Drone's Intelligence and Autonomy** is the
 As a system researcher and builder, I adhere to the research motto: "**Working Code on Flying Drones Trumps All Hype**" (inspired by Prof. [Satya](https://www.cs.cmu.edu/~satya/)). 
 In pursuit of making code operational and drones airborne, I think this problem from the following three important perspectives.
 
-1. **Algorithm Front**: *Write Working Code suitable for Flying Drones*.
+1. **Algorithm Front**: Write Working Code suitable for Flying Drones.
 
-2. **Computing Front**: *Enable Flying Drones to effectively run Working Code*. 
+2. **Computing Front**: Enable Flying Drones to effectively run Working Code. 
 
 3. To push forward system performance, beyond developing algorithms and leveraging computational platforms separately, I also try to bridge them through **Software-Hardware Co-Design**.
 
