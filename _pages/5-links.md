@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /links/
-title: Useful Links
+title: Links
 description:
-nav: true
-nav_order: 4
+nav: false
+nav_order: 5
 ---
 
 <i class="fa fa-link"></i> [Upcoming Conferences](http://ct.cswu.me/)

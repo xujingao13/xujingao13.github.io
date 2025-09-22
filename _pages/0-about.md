@@ -45,8 +45,8 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 
 
 <i class="fa-solid fa-star"></i> **Research Interests**: 
-* AIoT, Edge Computing, Drone-based Computing
-* Visual SLAM Systems, Event-Camera-based Mobile Applications
+* Mobile and Embedded Systems, AI Systems, AIoT
+* Embodied Navigation, Edge Computing
 * Check out my <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en)
 
 <i class="fa-solid fa-flag"></i> **Research Highlight**: 

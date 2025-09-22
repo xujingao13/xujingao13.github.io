@@ -2,7 +2,7 @@
   category: teaching
   type: stacked_timeline
   contents:
-    - years: [Spring 2026 - Future]
+    - years: [2026 - Future]
       description: <strong>TBD......</strong>
 
 - title: Guest Lectures
@@ -23,7 +23,7 @@
   contents:
     - title: Vision Foundation Models <i>For</i>, <i>With</i>, and <i>On</i> Autonomous Drones
       description:
-        - Northeastern University, Boston, MA, USA, Aug. 2025
+        # - Northeastern University, Boston, MA, USA, Aug. 2025
         - Carnegie Mellon University, Pittsburgh, PA, USA, Aug. 2025
     - title: Drone-based Autonomous Systems with <i>Mobile-Edge</i>, <i>Software-Hardware</i> Co-Design
       description:
@@ -32,8 +32,9 @@
         - Univeristy of Pittsburgh, Pittsburgh, PA, USA, Apr. 2025
     - title: Event-based Vision for Drones&#58; <u>A</u>bstraction, <u>A</u>lgorithm, <u>A</u>cceleration
       description:
-        - University of Maryland, College Park, MD, USA, Mar. 2025
-         - 中国计算机学会物联网大会青年论坛, 大连, 2023年10月
+        # - University of Maryland, College Park, MD, USA, Mar. 2025
+        - Carnegie Mellon University, Pittsburgh, PA, USA, Oct. 2024
+        - 中国计算机学会物联网大会青年论坛, 大连, 2023年10月
 
 - title: Selected Student Mentorships
   category: mentorship
@@ -54,7 +55,7 @@
     - year: 2024 - present
       description: <strong>Qifei Dong</strong>, Ph.D. student @CMU
     - year: 2024 - present
-      description: <strong>Xiangliang Chen</strong>, Master student → Ph.D. student @CMU
+      description: <strong>Xiangliang Chen</strong>, Master student @CMU → Ph.D. student @CMU
 
 - title: Undergraduate Class Counsellor
   category: mentorship

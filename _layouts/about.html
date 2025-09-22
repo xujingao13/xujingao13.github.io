@@ -41,6 +41,7 @@ layout: default
             {{ content }}
           </div>
 
+          <br>
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
@@ -54,6 +55,7 @@ layout: default
           {%- endif %}
 
           <!-- Selected papers -->
+          <br>
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Representative Publications</a></h2>
             <i class="fas fa-hand-point-right"></i> <a href="./publications/" target="_blank"> Full Publications</a>
