@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher at the [Living Edge Lab](https://www.cmu.edu/scs/edgecomputing/index.html) within the Computer Science Department of Carnegie Mellon University, working with Professor [Mahadev Satyanarayanan](https://www.cs.cmu.edu/~satya/).
+I am currently a postdoctoral researcher at the Computer Science Department of Carnegie Mellon University, working with Professor [Mahadev Satyanarayanan](https://www.cs.cmu.edu/~satya/).
 My current work focuses on advancing **Edge Computing** within **Drone**-based systems.
-Prior to that, I received both my Ph.D. (2022) and B.E. (2017) degrees with highest honors in Software Engineering from the School of Software at Tsinghua University, under the supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/). 
+Prior to that, I received both my Ph.D. (2022) and B.E. (2017) degrees with highest honors in Software Engineering from the School of Software at Tsinghua University, under the supervision of Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) and Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html).
 
 <!-- I am currently a postdoctoral researcher at the School of Software, Tsinghua University, working with Professor [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).
 I received my Ph.D. degree from the School of Software at Tsinghua University in July 2022, under the supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).

@@ -34,12 +34,12 @@ document.addEventListener('DOMContentLoaded', function() {
     'ACM IMWUT/UbiComp': 840,
     'ACM/IEEE ToN': 780,
     'ACM/IEEE TOSN': 770,
-    'IEEE TMC': 650,
+    'IEEE TMC': 750,
     'IEEE TIM': 640,
     'IEEE IoTJ': 630,
     
     // Default score for unlisted venues
-    'default': 500
+    'default': 750
   };
 
   // Initialize filter system
