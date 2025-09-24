@@ -7,6 +7,10 @@ nav: false
 nav_order: 6
 ---
 
+<div class="row mt-3 mb-4">
+    {% include figure.html path="assets/img/openings-cover.png" class="img-fluid rounded z-depth-1" zoomable=true width="100%" %}
+</div>
+
 # Note to Prospective Students
 
 Thanks for your interest to join my group at the Department of Electrical and Electronic Engineering, the University of Hong Kong ([HKU EEE](https://www.eee.hku.hk/))!
@@ -19,7 +23,8 @@ Exceptional students will be supported to apply for the HKU presidential Ph.D. s
 
 Our group will work on building mobile systems, with a long-term focus on exploring **how cutting-edge CV/AI advances can empower running robots, flying drones, and soaring satellites to operate in the real world**, NOT just excel on datasets. 
 Our works have appeared in top system and mobile computing venues such as **NSDI/EuroSys, MobiCom/MobiSys/SenSys, ICCV/CVPR,** with industrial deployments demonstrating practical impact.
-In the era of the Low-Altitude Economy, our current and upcoming research focuses on <span style="color: #B22222; font-weight: bold;">Vision Foundation Models</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">For,</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">With,</span> <span style="color: #B22222; font-weight: bold;">and</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">On</span> <span style="color: #B22222; font-weight: bold;">Flying Drones</span>:
+In the era of the Low-Altitude Economy, our current and upcoming research focuses on 
+<span style="color: #B22222; font-weight: bold;">Vision Foundation Models</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">For,</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">With,</span> <span style="color: #B22222; font-weight: bold;">and</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">On</span> <span style="color: #B22222; font-weight: bold;">Flying Drones</span>:
 
 * **For [Model, Algorithm]**: Adapting and Repurposing Foundation Models **For** Drone-based Systems
     - Large-scale VGGT, Depth Anything, Map Anything, 3DGS, VLM, ~~VLA~~, ~~WM~~, SLAM, etc.
@@ -39,7 +44,7 @@ In the era of the Low-Altitude Economy, our current and upcoming research focuse
 ### Eligibility & Application
 
 Candidates who majored in CS/EE/Software Engineering/Automation and related fields are encouraged to apply, particularly those with backgrounds in: drone-based applications, computer vision, computer networks, mobile and embedded systems, FPGA, etc.. 
-Applicants should meet the [HKU Admission Requirements](https://www.eee.hku.hk/study/rpg/). 
+Applicants should meet the [HKU Postgraduate Admission Requirements](https://www.eee.hku.hk/study/rpg/). 
 
 **AGI IS COMING!** So, the following two qualities matter to me.
 
