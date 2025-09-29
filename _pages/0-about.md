@@ -69,9 +69,9 @@ In pursuit of making code operational and drones airborne, our group think this 
 As a system researcher and builder, I adhere to the research motto: "**Working Code on Flying Drones Trumps All Hype**" (inspired by Prof. [Satya](https://www.cs.cmu.edu/~satya/)). 
 In pursuit of making code operational and drones airborne, I think this problem from the following three important perspectives. -->
 
-* **Algorithm/Model Front**: Write Working Code suitable for Flying Drones.
+* **Algorithm/Model Front**: Write Working Code for Flying Drones.
 
-* **Computing/System Front**: Enable Flying Drones to effectively run Working Code. 
+* **Computing/System Front**: Enable Flying Drones to run Working Code. 
 
 * **Software-Hardware Co-Design**: Embed Working Code into Flying Drones.
 
