@@ -17,7 +17,7 @@ Thanks for your interest to join my group at the Department of Electrical and El
 
 <!-- I'll join the Department of Electrical and Electronic Engineering at the University of Hong Kong ([EEE, HKU](https://www.eee.hku.hk/)) as a tenure-track Assistant Professor, starting in Spring 2026. -->
 Currently, I have <span style="color: #B22222; font-weight: bold;">2-4 fully funded Ph.D.</span> openings for strong candidates starting in <span style="color: #B22222; font-weight: bold;">Spring/Fall 2026</span>, <span style="color: #B22222; font-weight: bold;">1</span><span style="color: #B22222; text-decoration: line-through;">2</span> <span style="color: #B22222; font-weight: bold;">Postdoc or RAP</span> opening with competitive salaries, and <span style="color: #B22222; font-weight: bold;">multiple RA</span> openings starting anytime (typically for at least six months).
-Exceptional students will be supported to apply for the HKU presidential Ph.D. scholarship ([HKU-PS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) and Hong Kong Ph.D. scholarship ([HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)).
+Exceptional students will be supported to apply for Hong Kong Ph.D. Fellowship Scheme ([HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)), HKU presidential Ph.D. Scholar Programme ([HKU-PS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) and Postgraduate Scholarships ([PGS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)).
 
 ### Major Research Topics
 

@@ -29,6 +29,16 @@ layout: default
               alt=page.profile.image
               cache_bust=true -%}
             {% endif -%}
+            
+            {%- if site.enable_profile_social %}
+            <!-- Profile Social Icons -->
+            <div class="profile-social" style="text-align: center; margin-top: 15px; font-size: 1.5rem;">
+              <div class="profile-social-icons">
+                {% include social.html %}
+              </div>
+            </div>
+            {%- endif %}
+            
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}

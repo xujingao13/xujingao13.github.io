@@ -12,6 +12,8 @@ profile:
     <p>Postdoctoral Researcher</p>
     <p><a href="https://www.cmu.edu/scs/edgecomputing/index.html" target="_blank">The Living Edge Lab</a></p>
     <p>Computer Science, CMU</p>
+    <p>GHC 9120, 5000 Forbes Ave</p>
+    <p>Pittsburgh, PA, 15213</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,6 +24,11 @@ social: true  # includes social icons at the bottom of the page
 I am currently a postdoctoral researcher at the Computer Science Department of Carnegie Mellon University, working with Professor [Mahadev Satyanarayanan](https://www.cs.cmu.edu/~satya/).
 My current work focuses on advancing **Edge Computing** within **Drone**-based systems.
 Prior to that, I received both my Ph.D. (2022) and B.E. (2017) degrees with highest honors in Software Engineering from the School of Software at Tsinghua University, under the supervision of Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/) and Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html).
+
+ <span style="color: #B22222; font-weight: bold;">[OPENING]</span> I'm joining the Department of Electrical and Electronic Engineering (**EEE**) at the **University of Hong Kong** as a **tenure-track Assistant Professor**, starting in Spring 2026.
+ I’m actively seeking highly motivated students to join our group at HKU.
+ See [Note to Prospective Students](openings/).
+
 
 <!-- I am currently a postdoctoral researcher at the School of Software, Tsinghua University, working with Professor [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).
 I received my Ph.D. degree from the School of Software at Tsinghua University in July 2022, under the supervision of Prof. [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) and Prof. [Zheng Yang](http://tns.thss.tsinghua.edu.cn/~yangzheng/).
@@ -37,7 +44,7 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 
 <!-- <i class="fa fa-location-arrow"></i> **Location**: 11-236 East Main Building, Tsinghua University, Beijing, China -->
 
-<i class="fa fa-location-arrow"></i> **Address**: GHC 9120, 5000 Forbes Ave, Pittsburgh, PA, 15213
+<!-- <i class="fa fa-location-arrow"></i> **Address**: GHC 9120, 5000 Forbes Ave, Pittsburgh, PA, 15213 -->
 
 <!-- <i class="fa fa-envelope"></i> **E-mail**: <u>xujingao13 AT gmail DOT com</u> / <u>jingaox AT andrew DOT cmu DOT edu</u> -->
 
@@ -47,7 +54,8 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 <i class="fa-solid fa-flag"></i> **Research Interests**: 
 * Mobile and Embedded Systems, AI Systems, AIoT
 * Embodied Navigation, Edge Computing
-* My <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en)
+* [CV](assets/pdf/CV_jingao.pdf) / [Full Publications](./publications/) / [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en)
+<!-- * My <i class="fa-solid fa-file-pen"></i> [CV](assets/pdf/CV_jingao.pdf), <i class="fa-solid fa-file-lines"></i> [Full Publications](./publications/), <i class="fa-solid fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=ZbqGJ_YAAAAJ&hl=en) -->
 
 <!-- <i class="fa-solid fa-flag"></i> **Research Highlight**:  -->
 
