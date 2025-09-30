@@ -3,7 +3,7 @@ layout: page
 permalink: /openings/
 title: Openings
 hide_title: true
-nav: false
+nav: true
 nav_order: 6
 ---
 
@@ -45,6 +45,7 @@ In the era of the Low-Altitude Economy, our current and upcoming research focuse
 
 Candidates who majored in CS/EE/Software Engineering/Automation and related fields are encouraged to apply, particularly those with backgrounds in: drone-based applications, computer vision, computer networks, mobile and embedded systems, FPGA, etc.. 
 Applicants should meet the [HKU Postgraduate Admission Requirements](https://www.eee.hku.hk/study/rpg/). 
+Here are some students I [mentor/have mentored](../teaching/#Mentorship). 
 
 **AGI IS COMING!** So, the following two qualities matter to me.
 
@@ -65,7 +66,7 @@ Applicants should meet the [HKU Postgraduate Admission Requirements](https://www
       <div class="card-body">
           <p class="card-text small">
             • Our goal is to enable mobile systems to leverage AI... <br>
-            • So we, ourselves, should first master how to use/control/beat AI <br>
+            • So we should first master how to use→control→beat AI <br>
           </p>
       </div>
     </div>
