@@ -1,7 +1,7 @@
 ---
 layout: teaching
 permalink: /teaching/
-title: Teaching & Talks
+title: Teaching
 hide_title: true
 # description: Teaching activities, invited talks, tutorials, and guest lectures.
 nav: true

@@ -13,10 +13,10 @@ nav_order: 6
 
 # Note to Prospective Students
 
-Thanks for your interest to join my group at the Department of Electrical and Electronic Engineering, the University of Hong Kong ([HKU EEE](https://www.eee.hku.hk/))!
+Thanks for your interest to join my group at the Department of Electrical and Computer Engineering, the University of Hong Kong ([HKU ECE](https://www.eee.hku.hk/))!
 
 <!-- I'll join the Department of Electrical and Electronic Engineering at the University of Hong Kong ([EEE, HKU](https://www.eee.hku.hk/)) as a tenure-track Assistant Professor, starting in Spring 2026. -->
-Currently, I have <span style="color: #B22222; font-weight: bold;">2-4 fully funded Ph.D.</span> openings for strong candidates starting in <span style="color: #B22222; font-weight: bold;">Spring/Fall 2026</span>, <span style="color: #B22222; font-weight: bold;">1</span><span style="color: #B22222; text-decoration: line-through;">2</span> <span style="color: #B22222; font-weight: bold;">Postdoc or RAP</span> opening with competitive salaries, and <span style="color: #B22222; font-weight: bold;">multiple RA</span> openings starting anytime (typically for at least six months).
+Currently, I have <span style="color: #B22222; font-weight: bold;">1-2 fully funded Ph.D.</span> openings for strong candidates starting in <span style="color: #B22222; font-weight: bold;">Spring/Fall 2027</span>, <span style="color: #B22222; font-weight: bold;">1</span> <span style="color: #B22222; font-weight: bold;">Postdoc or RAP</span> opening with competitive salaries, and <span style="color: #B22222; font-weight: bold;">multiple RA</span> openings starting anytime (typically for at least six months).
 Exceptional students will be supported to apply for Hong Kong Ph.D. Fellowship Scheme ([HKPFS](https://cerg1.ugc.edu.hk/hkpfs/index.html)), HKU presidential Ph.D. Scholar Programme ([HKU-PS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)) and Postgraduate Scholarships ([PGS](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)).
 
 ### Major Research Topics
@@ -27,7 +27,7 @@ In the era of the Low-Altitude Economy, our current and upcoming research focuse
 <span style="color: #B22222; font-weight: bold;">Vision Foundation Models</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">For,</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">With,</span> <span style="color: #B22222; font-weight: bold;">and</span> <span style="color: #B22222; font-weight: bold; font-style: italic; text-decoration: underline;">On</span> <span style="color: #B22222; font-weight: bold;">Flying Drones</span>:
 
 * **For [Model, Algorithm]**: Adapting and Repurposing Foundation Models **For** Drone-based Systems
-    - Large-scale VGGT, Depth Anything, Map Anything, 3DGS, VLM, ~~VLA~~, ~~WM~~, SLAM, etc.
+    - Large-scale VGGT (and its recent evolutions), 3DGS, VLM, WM, SLAM, etc.
     - Multi-modality Foundation Model (e.g., Vision + mmWave/LiDar/Event Camera/IMU)
     - Embedded and Embodied Localization/Navigation in GPS-denied scenarios
 
@@ -73,6 +73,6 @@ Here are some students I [mentor/have mentored](../teaching/#Mentorship).
   </div>
 </div>
 
-To apply, please email me ([xujingao13@gmail.com](mailto:xujingao13@gmail.com)) your CV and a brief statement of your research interests or plans. Please use this exact subject format: 
+To apply, please email me ([jingaoxu@hku.hk](mailto:jingaoxu@hku.hk)) your CV and a brief statement of your research interests or plans. Please use this exact subject format: 
 ``` [Prospective PhD/Postdoc/RA] Your Name - Your Affiliation ```.
-My n8n-powered LLM agent screens incoming emails, so following the format ensures your application reaches me (my <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-notion-8s3w3twcte5pvxyrbyz6p7.png/brand-notion-teydz161xtjtjl6qneb1n.png?_a=DATAg1AAZAA0" alt="Notion" style="height: 1.5em; display: inline;"> Database) directly.
+My AI agent screens incoming emails, so following the format ensures your application reaches me (my <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-notion-8s3w3twcte5pvxyrbyz6p7.png/brand-notion-teydz161xtjtjl6qneb1n.png?_a=DATAg1AAZAA0" alt="Notion" style="height: 1.5em; display: inline;"> Database) directly.

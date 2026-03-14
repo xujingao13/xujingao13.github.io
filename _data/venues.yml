@@ -39,6 +39,11 @@
 "IEEE ICDCS":
   color: "#3376CD"
 
+"IEEE/CVF ICCV":
+  color: "#9355b7"  # deep purple, good contrast with white
+
+"IEEE/CVF CVPR":
+  color: "#9355b7"  # deep purple, good contrast with white
 
 "AJP":
   url: https://aapt.scitation.org/journal/ajp

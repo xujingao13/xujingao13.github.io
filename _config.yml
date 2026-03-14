@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jingao
 middle_name: 
 last_name: Xu｜徐京傲
-email: xujingao13@gmail.com
+email: jingaoxu@hku.hk
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -15,10 +15,10 @@ footer_text: >
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: "CMU-favicon.png"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "hku-logo.jpg"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: http://cs.cmu.edu # the base hostname & protocol for your site
-baseurl: /~jingaox # the subpath of your site, e.g. /blog/
+url: https://xujingao13.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -77,6 +77,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: ZbqGJ_YAAAAJ # your Google Scholar ID
+cv_url: assets/pdf/CV_jingao.pdf # your CV URL (local path or full URL)
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-8347-2657 # your ORCID ID
@@ -366,7 +367,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            false   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_profile_social:      false   # enables displaying social links below
+enable_profile_social:      true    # enables displaying social links below
                                    # profile image on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
