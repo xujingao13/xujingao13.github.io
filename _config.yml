@@ -15,7 +15,7 @@ footer_text: >
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-icon: "hku-logo.jpg"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "hku-favicon.png"  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://xujingao13.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
