@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Assistant Professor, ECE</p>
     <p>E-mail: <a href="mailto:jingaoxu@hku.hk" target="_blank">jingaoxu@hku.hk</a></p>   
-    <p>Office: <a href="https://maps.app.goo.gl/9H2ikVTMKudjsCM39" target="_blank">CB-612</a></p>
+    <p>Office: <a href="https://maps.app.goo.gl/9H2ikVTMKudjsCM39" target="_blank">CB-522</a></p>
     <p>The University of Hong Kong</p>
     <p>Pok Fu Lam, Hong Kong SAR</p>
 
