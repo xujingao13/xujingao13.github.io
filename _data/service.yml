@@ -1,6 +1,8 @@
 - title: Organizing Committee
   type: simple_timeline
   contents:
+    - year: 2026
+      description: <strong>Program Chair</strong>, ACM IMWUT/UbiComp EIoT Workshop
     - year: 2025
       description: <strong>General Co-Chair</strong>, ACM IMWUT/UbiComp PICASSO Workshop
     - year: 2025
@@ -8,12 +10,22 @@
     - year: 2024
       description: <strong>Publication Co-Chair</strong>, <strong>Poster/Demo Co-Chair</strong>, ACM HotMobile'24
 
+- title: Journal Editoral Board
+  type: simple_timeline
+  contents:
+    - year: 2026-present
+      description: <strong>Associate Editor</strong>, IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
+
 - title: Technical Program Committee
   type: stacked_timeline
   contents:
+    - years: [2026]
+      description: ACM/IEEE Symposium on Edge Computing (<strong>SEC</strong>)
+    - years: [2026]
+      description: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (<strong>MASS</strong>)
     - years: [2022, 2023, 2024, 2025]
       description: EAI International Conference on Mobile and Ubiquitous Systems (<strong>MobiQuitous</strong>)
-    - years: [2023, 2024, 2025]
+    - years: [2023, 2024, 2025, 2026]
       description: IEEE International Conference on Pervasive Computing and Communications (<strong>ICPADS</strong>)
 
 - title: Selected Journal Reviewer
@@ -22,15 +34,15 @@
     - year: 2019-present
       description: ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>IMWUT/UbiComp</strong>)
     - year: 2020-present
-      description: IEEE Transactions on Mobile Computing (<strong>TMC</strong>)
+      description: IEEE Transactions on Mobile Computing (<strong>TMC</strong>), IEEE Transactions on Sensor Networks (<strong>TOSN</strong>), IEEE Sensors Journal, IEEE Internet of Things Journal (<strong>IOTJ</strong>)
     - year: 2022-present
       description: IEEE Transactions on Networking (<strong>ToN</strong>)
-    - year: 2020-present
-      description: IEEE Transactions on Sensor Networks (<strong>TOSN</strong>)
-    - year: 2020-present
-      description: IEEE Sensors Journal
-    - year: 2020-present
-      description: IEEE Internet of Things Journal (<strong>IOTJ</strong>)
+    # - year: 2020-present
+    #   description: IEEE Transactions on Sensor Networks (<strong>TOSN</strong>), IEEE Sensors Journal, IEEE Internet of Things Journal (<strong>IOTJ</strong>)
+    # - year: 2020-present
+    #   description: IEEE Sensors Journal
+    # - year: 2020-present
+    #   description: IEEE Internet of Things Journal (<strong>IOTJ</strong>)
 
 
 # - title: Teaching

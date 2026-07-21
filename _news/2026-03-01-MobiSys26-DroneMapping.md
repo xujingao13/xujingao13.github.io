@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [SwiftMap](#) on drone-based fast and fully automatic 3D mapping was accepted by [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)
+Our work [SwiftMap](#) on drone-based fast and fully automatic 3D mapping was accepted by [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/) as a <span style="color: #2229b2; font-weight: bold;">Featured Paper</span> :sparkles: 
