@@ -59,7 +59,7 @@ Link to your social media connections, too. This theme is set up to use  [Font A
 The only way to think this question and validate your answers is building effective mobile systems. 
 To this end, my current research interests include:
 
-* Embodied, Embedded, and Autonomous AI Systems
+* Embodied, Embedded, and Physical AI Systems
 * Artificial Intelligence of Things (AIoT), Edge Computing
 * Drone-based Systems, Event Camera, Vision Foundation Models
 

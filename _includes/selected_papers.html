@@ -1,8 +1,12 @@
 
           <div class="publications">
-            <!-- 先显示所有标记为book_selected的书籍 -->
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[book_selected=true]* %}
-            
-            <!-- 然后显示所有标记为selected的非书籍条目按照年份分组 -->
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* --group_by year --group_order descending %}
+            <!-- 置顶区：book永远第一（@book类型查询），其余pinned条目按papers.bib中的先后顺序 -->
+            <div class="pinned-pubs">
+              <div class="pinned-header"><i class="fas fa-thumbtack"></i> Book &amp; Survey</div>
+              {% bibliography -f {{ site.scholar.bibliography }} -q @book[pinned=true] %}
+              {% bibliography -f {{ site.scholar.bibliography }} -q @*[pinned=true && mark!=book] %}
+            </div>
+
+            <!-- 其余featured文章按年份倒序 -->
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true] --group_by year --group_order descending %}
           </div>

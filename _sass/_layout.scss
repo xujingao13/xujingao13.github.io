@@ -49,10 +49,36 @@ body.sticky-bottom-footer {
   width: auto;
 }
 
+/* 首页featured里的置顶区（book + survey等代表作） */
+.publications .pinned-pubs {
+  border: 1px solid var(--global-divider-color);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 8px;
+  padding: 1rem 1.25rem 0.25rem;
+  margin-bottom: 2.5rem;
+
+  .pinned-header {
+    color: var(--global-theme-color);
+    font-weight: 600;
+    font-size: 0.9rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+
+    i {
+      margin-right: 0.4rem;
+    }
+  }
+}
+
 .globe-size {
   height: 120px;   /* 与.bottomimg中的图片高度一致 */
-  width: auto;     /* 宽度自适应 */
-  overflow: hidden; /* 防止内容溢出 */
+  flex-shrink: 0;  /* 防止flex布局把容器压瘪 */
+}
+
+.globe-size img {
+  height: 120px !important; /* 覆盖mapmyvisitors注入的自适应宽度样式 */
+  width: auto !important;
 }
 
 
