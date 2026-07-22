@@ -72,13 +72,11 @@ body.sticky-bottom-footer {
 }
 
 .globe-size {
-  height: 120px;   /* 与.bottomimg中的图片高度一致 */
-  flex-shrink: 0;  /* 防止flex布局把容器压瘪 */
-}
-
-.globe-size img {
-  height: 120px !important; /* 覆盖mapmyvisitors注入的自适应宽度样式 */
-  width: auto !important;
+  /* mapmyvisitors w=a模式在加载时按容器实测宽度渲染一次，容器必须有确定宽度（0宽会缩成一个点）。
+     用clamp让手机上初次加载时也能得到合适的宽度；注意widget画完后窗口缩放不会重画，需刷新才重新适配 */
+  width: clamp(150px, 22vw, 235px);
+  flex-shrink: 0;    /* 防止flex布局把容器压瘪 */
+  align-self: center; /* 与旁边的校徽垂直居中对齐 */
 }
 
 
