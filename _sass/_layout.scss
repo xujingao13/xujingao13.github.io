@@ -72,9 +72,8 @@ body.sticky-bottom-footer {
 }
 
 .globe-size {
-  /* mapmyvisitors w=a模式在加载时按容器实测宽度渲染一次，容器必须有确定宽度（0宽会缩成一个点）。
-     用clamp让手机上初次加载时也能得到合适的宽度；注意widget画完后窗口缩放不会重画，需刷新才重新适配 */
-  width: clamp(150px, 22vw, 235px);
+  /* mapmyvisitors用官网Custom Size固定尺寸(157x120)嵌入，widget自带宽高，容器只需包裹内容；
+     若改回w=a自适应模式则需给容器一个确定宽度，否则flex中量出0宽会缩成一个点 */
   flex-shrink: 0;    /* 防止flex布局把容器压瘪 */
   align-self: center; /* 与旁边的校徽垂直居中对齐 */
 }
