@@ -21,6 +21,9 @@ Exceptional students will be supported to apply for Hong Kong Ph.D. Fellowship S
 
 ### Major Research Topics
 
+Some recent thoughts of mine on [What Kind of Research Should We Do in the Great Age of AI? (feat. Dijkstra, EWD 637)](https://mirage-scarer-5dc.notion.site/research-direction). 
+It's written in Chinese, but I hope you find something useful in it.
+
 Our group will work on building mobile systems, with a long-term focus on exploring **how cutting-edge CV/AI advances can empower running robots, flying drones, and soaring satellites to operate in the real world**, NOT just excel on datasets. 
 Our works have appeared in top system and mobile computing venues such as **NSDI/EuroSys, MobiCom/MobiSys/SenSys, ICCV/CVPR,** with industrial deployments demonstrating practical impact.
 In the era of the Low-Altitude Economy, our current and upcoming research focuses on 

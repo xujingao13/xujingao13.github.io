@@ -19,6 +19,8 @@
 - title: Technical Program Committee
   type: stacked_timeline
   contents:
+    - years: [2027]
+      description: IEEE International Conference on Computer Communications (<strong>INFOCOM</strong>)
     - years: [2026]
       description: ACM/IEEE Symposium on Edge Computing (<strong>SEC</strong>)
     - years: [2026]
